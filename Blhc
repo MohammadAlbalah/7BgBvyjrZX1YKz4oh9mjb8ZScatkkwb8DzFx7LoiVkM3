@@ -1,0 +1,7 @@
+صدى "# 70x29A2480719E98AC8fd42b92976BAA2bceF304C35" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" git 
+branch -M main 
+git remote add origin https://github.com/MohammadAlbalah/7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3.git
+ git push -u origin main
